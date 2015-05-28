@@ -1,0 +1,6 @@
+/target/
+.tern-project
+Thumbs.db
+.classpath
+.project
+/.settings/**

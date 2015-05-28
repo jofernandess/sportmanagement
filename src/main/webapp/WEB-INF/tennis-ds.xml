@@ -4,11 +4,11 @@
 	xsi:schemaLocation="http://www.jboss.org/ironjacamar/schema http://docs.jboss.org/ironjacamar/schema/datasources_1_0.xsd">
 	<datasource jndi-name="java:jboss/datasources/tennisDS"
 		pool-name="tennisDS" enabled="true" use-java-context="true">
-		<connection-url>jdbc:mysql://127.9.45.130:3306/sportmanagement</connection-url>
+		<connection-url>jdbc:mysql://127.11.77.130:3306/sportmanagement</connection-url>
 		<driver>mysql</driver>
 		<security>
-			<user-name>admin1crB979</user-name>
-			<password>N8ZcWMbMlT7x</password>
+			<user-name>adminwWB7M5e</user-name>
+			<password>A2JJ2mm876hY</password>
 		</security>
 		<statement>
 			<prepared-statement-cache-size>100</prepared-statement-cache-size>

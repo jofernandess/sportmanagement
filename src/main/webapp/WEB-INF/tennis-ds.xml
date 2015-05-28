@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datasources xmlns="http://www.jboss.org/ironjacamar/schema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.jboss.org/ironjacamar/schema http://docs.jboss.org/ironjacamar/schema/datasources_1_0.xsd">
+	<datasource jndi-name="java:jboss/datasources/tennisDS"
+		pool-name="tennisDS" enabled="true" use-java-context="true">
+		<connection-url>jdbc:mysql://127.9.45.130:3306/sportmanagement</connection-url>
+		<driver>mysql</driver>
+		<security>
+			<user-name>admin1crB979</user-name>
+			<password>N8ZcWMbMlT7x</password>
+		</security>
+		<statement>
+			<prepared-statement-cache-size>100</prepared-statement-cache-size>
+		</statement>
+	</datasource>
+</datasources>
+ 

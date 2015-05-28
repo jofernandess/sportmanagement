@@ -1,0 +1,10 @@
+.login-btn {
+	font-size: 12px;
+	margin: .7em 0;
+}
+
+.login-btn:hover, .login-btn:visited, .login-btn:hover, .login-btn:visited
+	{
+	background-color: rgb(10, 166, 65) !important;
+	border-color: rgba(23, 208, 85, 0.69) !important;
+}
